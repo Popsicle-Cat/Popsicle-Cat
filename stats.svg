@@ -1,0 +1,8 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400">
+  <foreignObject width="100%" height="100%">
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=popsicle-cat&show_icons=true&theme=aura" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=popsicle-cat&show_icons=true&theme=aura&layout=compact" alt="Most Used Languages" />
+      </div>
+  </foreignObject>
+</svg>
