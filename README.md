@@ -14,9 +14,9 @@
 </p>
 
 <p align="center"> 
-  <img src="https://badges.pufler.dev/visits/Popsicle-Cat/Popsicle-Cat"/> 
-  <img src="https://badges.pufler.dev/repos/Popsicle-Cat"/> 
-  <img src="https://badges.pufler.dev/commits/monthly/Popsicle-Cat"/> 
+  <img src="https://badges.pufler.dev/visits/Popsicle-Cat/Popsicle-Cat?color=7559b8"/> 
+  <img src="https://badges.pufler.dev/repos/Popsicle-Cat?color=7559b8"/> 
+  <img src="https://badges.pufler.dev/commits/monthly/Popsicle-Cat?color=7559b8"/> 
 </p>
 
 <h2 align="left">🌐 Connect with me:</h2>
