@@ -14,9 +14,9 @@
 </p>
 
 <p align="center"> 
-  <img src="https://badges.pufler.dev/visits/Popsicle-Cat/Popsicle-Cat?color=7559b8"/> 
-  <img src="https://badges.pufler.dev/repos/Popsicle-Cat?color=7559b8"/> 
-  <img src="https://badges.pufler.dev/commits/monthly/Popsicle-Cat?color=7559b8"/> 
+  <!-- <img src="https://badge-it-azure.vercel.app/visits/Popsicle-Cat/Popsicle-Cat?color=7559b8"/>  -->
+  <img src="https://badge-it-azure.vercel.app/repos/Popsicle-Cat?color=7559b8"/> 
+  <img src="https://badge-it-azure.vercel.app/commits/monthly/Popsicle-Cat?color=7559b8"/> 
 </p>
 
 <h2 align="left">🌐 Connect with me:</h2>
@@ -38,6 +38,6 @@
 <h2 align="left">📊 Statistics:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=popsicle-cat&show_icons=true&theme=aura" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=popsicle-cat&show_icons=true&theme=aura&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-kyrf.vercel.app/api?username=popsicle-cat&show_icons=true&theme=aura" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-kyrf.vercel.app/api/top-langs?username=popsicle-cat&show_icons=true&theme=aura&layout=compact" alt="Most Used Languages" />
 </div>
