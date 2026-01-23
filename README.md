@@ -39,7 +39,7 @@ I am always open to learning and taking on new challenges.
 </p> 
 -->
 
-<h2 align="left">🌐 Connect with me:</h2>
+<h2 align="left">🌐 Connect with me</h2>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/breno-figueiredo-borges-b83139235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breno figueiredo borges" height="30" width="40" /></a>
@@ -49,13 +49,13 @@ I am always open to learning and taking on new challenges.
   <a href="https://www.leetcode.com/popsicle-cat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="popsicle-cat" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">💻 Languages and Tools:</h2>
+<h2 align="left">💻 Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,c,cpp,js,nodejs,py,spring,git,github,bash,aws,docker,linux,mysql,postgres,tensorflow,blender,unreal&theme=dark&perline=10" />
 </p>
 
-<h2 align="left">📊 Statistics:</h2>
+<h2 align="left">📊 Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-kyrf.vercel.app/api?username=popsicle-cat&show_icons=true&theme=aura" alt="GitHub Stats" />
