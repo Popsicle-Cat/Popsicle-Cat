@@ -1,23 +1,43 @@
 <h1 align="center">Greetings 👋, I'm Breno Figueiredo Borges.</h1>
 
-<p align="center">
-  <ul>
-    <li>This curious mind is deeply into machine learning, and dreams of making waves in the world of AI—one neural network at a time!</li>
-    <li>When I'm not busy crying over my bugged code, you can find me adding 'just one more feature'.</li>
-    <li>Loves to pair program.</li>
-    <li>Constantly leveling up in life and coding.</li>
-  </ul>
-</p>
+I am a software developer with **2 years and 6 months of professional experience**, passionate about technology and building efficient, well-structured solutions. I have hands-on experience with **PHP, JavaScript, and SQL**, as well as exposure to other languages and technologies throughout my journey.
 
-<p align="center">
-  PS: debugging goes faster when chocolate bar is in hand!
-</p>
+I am driven by continuous learning, clean code practices, and collaboration. I am always open to learning new tools, languages, and architectures, aiming to grow both technically and professionally.
 
+## 👨‍💻 Professional Profile
+
+I work on web application development, focusing on backend logic, database integration, and API development. Throughout my experience, I have worked in different contexts and faced real-world challenges, which helped me build a solid understanding of code maintenance, project organization, and problem-solving.
+
+I value clean, readable code, proper documentation, and solutions that truly add value to products and end users.
+
+## 🚀 Experience
+
+- **Software Developer**  
+  **2 years and 6 months** of experience working on web-based systems, dealing with different technologies and solving real business problems.
+
+During this time, I gained practical experience in:
+- Developing and maintaining applications  
+- Writing reusable and well-structured code  
+- Learning and adapting to new languages and tools  
+- Collaborating with teams and evolving products  
+
+## 📚 Continuous Learning
+
+I have a strong interest in:
+- New programming languages  
+- Software architecture best practices  
+- Code quality and performance improvements  
+- Growing as a developer and as a person  
+
+I am always open to learning and taking on new challenges.
+
+<!-- 
 <p align="center"> 
-  <!-- <img src="https://badge-it-azure.vercel.app/visits/Popsicle-Cat/Popsicle-Cat?color=7559b8"/>  -->
+  <img src="https://badge-it-azure.vercel.app/visits/Popsicle-Cat/Popsicle-Cat?color=7559b8"/>  
   <img src="https://badge-it-azure.vercel.app/repos/Popsicle-Cat?color=7559b8"/> 
   <img src="https://badge-it-azure.vercel.app/commits/monthly/Popsicle-Cat?color=7559b8"/> 
-</p>
+</p> 
+-->
 
 <h2 align="left">🌐 Connect with me:</h2>
 
