@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Breno Figueiredo Borges.</h1>
 
-I am a software developer with **2 years and 6 months of professional experience**, passionate about technology and building efficient, well-structured solutions. I have hands-on experience with **PHP, JavaScript, and SQL**, as well as exposure to other languages and technologies throughout my journey.
+I am a software developer, passionate about technology and building efficient, well-structured solutions.
 
 I am driven by continuous learning, clean code practices, and collaboration. I am always open to learning new tools, languages, and architectures, aiming to grow both technically and professionally.
 
