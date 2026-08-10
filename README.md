@@ -55,9 +55,11 @@ I am always open to learning and taking on new challenges.
   <img src="https://skillicons.dev/icons?i=java,php,c,cpp,js,nodejs,py,spring,git,github,bash,aws,docker,linux,mysql,postgres,tensorflow,blender,unreal&theme=dark&perline=10" />
 </p>
 
+<!-- 
 <h2 align="left">📊 Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-kyrf.vercel.app/api?username=popsicle-cat&show_icons=true&theme=aura" alt="GitHub Stats" />
   <img src="https://github-readme-stats-kyrf.vercel.app/api/top-langs?username=popsicle-cat&show_icons=true&theme=aura&layout=compact" alt="Most Used Languages" />
 </div>
+-->
